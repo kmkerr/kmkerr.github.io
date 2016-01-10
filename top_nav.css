@@ -17,6 +17,7 @@
         display: block;
         width: 790px;
     }
+
     nav {
         font-size: 22px;
         text-align:center;
@@ -33,14 +34,15 @@
     }
     .nav-link {
       display: inline-block;
-      padding: -20 30 30 0;
+      padding: 0 40 40 0;
+      vertical-align: center;
     }
     nav li a {
         display: block;
         height: 25px;
         border-right: 1px solid #cccccc;
-        padding: 0px 0px 0px 0px;
-        vertical-align: top;
+        padding: 0 0 0 0;
+        vertical-align: center;
     }
     a {
         color: black;
